@@ -1,0 +1,11 @@
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\bin\Debug\net8.0\RigoRigo.Entities.deps.json
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\bin\Debug\net8.0\RigoRigo.Entities.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\bin\Debug\net8.0\RigoRigo.Entities.pdb
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\obj\Debug\net8.0\RigoRigo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\obj\Debug\net8.0\RigoRigo.Entities.AssemblyInfoInputs.cache
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\obj\Debug\net8.0\RigoRigo.Entities.AssemblyInfo.cs
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\obj\Debug\net8.0\RigoRigo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\obj\Debug\net8.0\RigoRigo.Entities.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\obj\Debug\net8.0\refint\RigoRigo.Entities.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\obj\Debug\net8.0\RigoRigo.Entities.pdb
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Entities\obj\Debug\net8.0\ref\RigoRigo.Entities.dll

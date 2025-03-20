@@ -1,0 +1,17 @@
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\bin\Debug\net8.0\RigoRigo.Data.deps.json
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\bin\Debug\net8.0\RigoRigo.Data.runtimeconfig.json
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\bin\Debug\net8.0\RigoRigo.Data.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\bin\Debug\net8.0\RigoRigo.Data.pdb
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\bin\Debug\net8.0\RigoRigo.Entities.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\bin\Debug\net8.0\RigoRigo.Entities.pdb
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\RigoRigo.Data.csproj.AssemblyReference.cache
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\RigoRigo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\RigoRigo.Data.AssemblyInfoInputs.cache
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\RigoRigo.Data.AssemblyInfo.cs
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\RigoRigo.Data.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\RigoRigo.A98ADAA5.Up2Date
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\RigoRigo.Data.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\refint\RigoRigo.Data.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\RigoRigo.Data.pdb
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\RigoRigo.Data.genruntimeconfig.cache
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Data\obj\Debug\net8.0\ref\RigoRigo.Data.dll

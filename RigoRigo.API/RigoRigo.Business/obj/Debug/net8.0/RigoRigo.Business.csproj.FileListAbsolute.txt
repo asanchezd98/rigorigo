@@ -1,0 +1,17 @@
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\bin\Debug\net8.0\RigoRigo.Business.deps.json
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\bin\Debug\net8.0\RigoRigo.Business.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\bin\Debug\net8.0\RigoRigo.Business.pdb
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\bin\Debug\net8.0\RigoRigo.Data.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\bin\Debug\net8.0\RigoRigo.Entities.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\bin\Debug\net8.0\RigoRigo.Data.pdb
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\bin\Debug\net8.0\RigoRigo.Entities.pdb
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\RigoRigo.Business.csproj.AssemblyReference.cache
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\RigoRigo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\RigoRigo.Business.AssemblyInfoInputs.cache
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\RigoRigo.Business.AssemblyInfo.cs
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\RigoRigo.Business.csproj.CoreCompileInputs.cache
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\RigoRigo.FFBB7FE2.Up2Date
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\RigoRigo.Business.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\refint\RigoRigo.Business.dll
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\RigoRigo.Business.pdb
+C:\Users\abner\source\repos\RigoRigo.API\RigoRigo.Business\obj\Debug\net8.0\ref\RigoRigo.Business.dll
