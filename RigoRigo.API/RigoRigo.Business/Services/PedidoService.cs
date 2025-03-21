@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using RigoRigo.Business.Interfaces;
 using RigoRigo.Data.Interfaces;
+using RigoRigo.Data.Models;
 using RigoRigo.Entities.Entities;
 
 namespace RigoRigo.Business.Services
@@ -18,7 +19,7 @@ namespace RigoRigo.Business.Services
             _pedidoRepository = pedidoRepository;
         }
 
-        public async Task CrearPedidoConClienteAsync(PedidoConCliente pedidoConCliente)
+        public async Task CrearPedidoConClienteAsync(PedidosModel pedidoConCliente)
         {
             await _pedidoRepository.CrearPedidoConClienteAsync(pedidoConCliente);
         }

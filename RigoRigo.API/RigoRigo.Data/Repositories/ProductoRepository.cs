@@ -22,7 +22,9 @@ namespace RigoRigo.Data.Repositories
         // Obtener todos los productos de manera asíncrona
         public async Task<List<Producto>> ObtenerProductosAsync()
         {
-            return await _context.Productos.ToListAsync();
+            return await _context.Productos
+                .FromSqlInterpolated($@"EXEC ObtenerProductos")
+                .ToListAsync();
         }
     }
 }

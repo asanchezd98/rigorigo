@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using RigoRigo.Data.Context;
 using RigoRigo.Data.Interfaces;
+using RigoRigo.Data.Models;
 using RigoRigo.Entities.Entities;
 
 namespace RigoRigo.Data.Repositories
@@ -19,14 +20,14 @@ namespace RigoRigo.Data.Repositories
             _context = context;
         }
 
-        public async Task CrearPedidoConClienteAsync(PedidoConCliente pedidoConCliente)
+        public async Task CrearPedidoConClienteAsync(PedidosModel pedido)
         {
-            var detallesJson = System.Text.Json.JsonSerializer.Serialize(pedidoConCliente.Detalles);
+            var detallesJson = System.Text.Json.JsonSerializer.Serialize(pedido.detalles);
             await _context.Database.ExecuteSqlInterpolatedAsync($@"
                 EXEC CrearPedidoConCliente
-                    @Cedula = {pedidoConCliente.Cedula},
-                    @Nombre = {pedidoConCliente.Nombre},
-                    @Direccion = {pedidoConCliente.Direccion},
+                    @Cedula = {pedido.cedula},
+                    @Nombre = {pedido.nombre},
+                    @Direccion = {pedido.direccion},
                     @Detalles = {detallesJson}
             ");
         }

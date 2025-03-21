@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "pedido",
-        "Type": "RigoRigo.Entities.Entities.PedidoConCliente",
+        "Type": "RigoRigo.Data.Models.PedidosModel",
         "IsRequired": true
       }
     ],

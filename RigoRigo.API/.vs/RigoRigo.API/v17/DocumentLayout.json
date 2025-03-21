@@ -3,84 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|solutionrelative:rigorigo.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|solutionrelative:rigorigo.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\pedidoconcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\pedidoconcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|solutionrelative:rigorigo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|solutionrelative:rigorigo.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\interfaces\\iproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|solutionrelative:rigorigo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\context\\rigorigocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\context\\rigorigocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\models\\productomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\interfaces\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\models\\clientemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\models\\detallepedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E1773-C946-48A9-9DD8-2172D41F0890}|RigoRigo.Data\\RigoRigo.Data.csproj|solutionrelative:rigorigo.data\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\pedidoconcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\pedidoconcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\rigorigo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|solutionrelative:rigorigo.api\\rigorigo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.entities\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476D68E6-63AD-48BC-B5FD-67C2E76274F9}|RigoRigo.Entities\\RigoRigo.Entities.csproj|solutionrelative:rigorigo.entities\\entities\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -89,14 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|solutionrelative:rigorigo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\rigorigo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|solutionrelative:rigorigo.api\\rigorigo.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.business\\models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F21067A-2BD7-4C70-8E29-EF9424FA39BB}|RigoRigo.Business\\RigoRigo.Business.csproj|solutionrelative:rigorigo.business\\models\\pedidomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E64FC9D-F183-4906-986D-5E949B0501AA}|RigoRigo.API\\RigoRigo.API.csproj|c:\\users\\abner\\source\\repos\\rigorigo.api\\rigorigo.api\\rigorigo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -110,167 +102,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Services\\ProductoService.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Business\\Services\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Services\\ProductoService.cs",
-              "RelativeToolTip": "RigoRigo.Business\\Services\\ProductoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "PedidosModel.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Models\\PedidosModel.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Data\\Models\\PedidosModel.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Models\\PedidosModel.cs",
+              "RelativeToolTip": "RigoRigo.Data\\Models\\PedidosModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:35:02.167Z",
+              "WhenOpened": "2025-03-21T03:33:26.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PedidosController.cs",
               "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Controllers\\PedidosController.cs",
               "RelativeDocumentMoniker": "RigoRigo.API\\Controllers\\PedidosController.cs",
               "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Controllers\\PedidosController.cs",
               "RelativeToolTip": "RigoRigo.API\\Controllers\\PedidosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T16:51:53.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PedidoConCliente.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\PedidoConCliente.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\PedidoConCliente.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\PedidoConCliente.cs",
-              "RelativeToolTip": "RigoRigo.Entities\\Entities\\PedidoConCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T19:08:33.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "RigoRigo.API\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "RigoRigo.API\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:37:36.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DetallePedido.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\DetallePedido.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\DetallePedido.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\DetallePedido.cs",
-              "RelativeToolTip": "RigoRigo.Entities\\Entities\\DetallePedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:18:41.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IPedidoService.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Interfaces\\IPedidoService.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Business\\Interfaces\\IPedidoService.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Interfaces\\IPedidoService.cs",
-              "RelativeToolTip": "RigoRigo.Business\\Interfaces\\IPedidoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:41:16.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Producto.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\Producto.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Producto.cs",
-              "RelativeToolTip": "RigoRigo.Entities\\Entities\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:17:35.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Pedido.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\Pedido.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Pedido.cs",
-              "RelativeToolTip": "RigoRigo.Entities\\Entities\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:18:09.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\Cliente.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Cliente.cs",
-              "RelativeToolTip": "RigoRigo.Entities\\Entities\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:17:05.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPedidoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Interfaces\\IPedidoRepository.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Data\\Interfaces\\IPedidoRepository.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Interfaces\\IPedidoRepository.cs",
-              "RelativeToolTip": "RigoRigo.Data\\Interfaces\\IPedidoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:30:05.574Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PedidoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Repositories\\PedidoRepository.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Data\\Repositories\\PedidoRepository.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Repositories\\PedidoRepository.cs",
-              "RelativeToolTip": "RigoRigo.Data\\Repositories\\PedidoRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:29:33.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PedidoService.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Services\\PedidoService.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Business\\Services\\PedidoService.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Services\\PedidoService.cs",
-              "RelativeToolTip": "RigoRigo.Business\\Services\\PedidoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:43:01.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "IProductoService.cs",
               "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Interfaces\\IProductoService.cs",
               "RelativeDocumentMoniker": "RigoRigo.Business\\Interfaces\\IProductoService.cs",
@@ -283,98 +145,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "IProductoRepository.cs",
               "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Interfaces\\IProductoRepository.cs",
               "RelativeDocumentMoniker": "RigoRigo.Data\\Interfaces\\IProductoRepository.cs",
               "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Interfaces\\IProductoRepository.cs",
               "RelativeToolTip": "RigoRigo.Data\\Interfaces\\IProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T18:31:29.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "ProductoRepository.cs",
               "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Repositories\\ProductoRepository.cs",
               "RelativeDocumentMoniker": "RigoRigo.Data\\Repositories\\ProductoRepository.cs",
               "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Repositories\\ProductoRepository.cs",
               "RelativeToolTip": "RigoRigo.Data\\Repositories\\ProductoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T18:33:16.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Program.cs",
-              "RelativeDocumentMoniker": "RigoRigo.API\\Program.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Program.cs",
-              "RelativeToolTip": "RigoRigo.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Data\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "RigoRigo.Data\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAewCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:23:59.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DetallePedidoModel.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Models\\DetallePedidoModel.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Business\\Models\\DetallePedidoModel.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Models\\DetallePedidoModel.cs",
-              "RelativeToolTip": "RigoRigo.Business\\Models\\DetallePedidoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:47:08.367Z",
+              "WhenOpened": "2025-03-20T16:29:33.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "ProductoModel.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Models\\ProductoModel.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Business\\Models\\ProductoModel.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Models\\ProductoModel.cs",
-              "RelativeToolTip": "RigoRigo.Business\\Models\\ProductoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:47:35.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RigoRigoContext.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Context\\RigoRigoContext.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Data\\Context\\RigoRigoContext.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Context\\RigoRigoContext.cs",
-              "RelativeToolTip": "RigoRigo.Data\\Context\\RigoRigoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:20:41.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClienteModel.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Models\\ClienteModel.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Business\\Models\\ClienteModel.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Models\\ClienteModel.cs",
-              "RelativeToolTip": "RigoRigo.Business\\Models\\ClienteModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:46:34.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "RigoRigo.API.http",
               "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\RigoRigo.API.http",
               "RelativeDocumentMoniker": "RigoRigo.API\\RigoRigo.API.http",
@@ -387,28 +197,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PedidoModel.cs",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Models\\PedidoModel.cs",
-              "RelativeDocumentMoniker": "RigoRigo.Business\\Models\\PedidoModel.cs",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Models\\PedidoModel.cs",
-              "RelativeToolTip": "RigoRigo.Business\\Models\\PedidoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Business\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Services\\PedidoService.cs",
+              "RelativeToolTip": "RigoRigo.Business\\Services\\PedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T16:47:20.36Z",
+              "WhenOpened": "2025-03-20T16:43:01.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "RigoRigo.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "RigoRigo.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-20T16:57:07.917Z",
+              "DocumentIndex": 8,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Interfaces\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Data\\Interfaces\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Interfaces\\IPedidoRepository.cs",
+              "RelativeToolTip": "RigoRigo.Data\\Interfaces\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:30:05.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PedidoConCliente.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\PedidoConCliente.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\PedidoConCliente.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\PedidoConCliente.cs",
+              "RelativeToolTip": "RigoRigo.Entities\\Entities\\PedidoConCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:08:33.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Pedido.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\Pedido.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Pedido.cs",
+              "RelativeToolTip": "RigoRigo.Entities\\Entities\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:18:09.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetallePedidoModel.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Models\\DetallePedidoModel.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Data\\Models\\DetallePedidoModel.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Models\\DetallePedidoModel.cs",
+              "RelativeToolTip": "RigoRigo.Data\\Models\\DetallePedidoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:33:07.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Program.cs",
+              "RelativeDocumentMoniker": "RigoRigo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Program.cs",
+              "RelativeToolTip": "RigoRigo.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:23:59.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RigoRigoContext.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Context\\RigoRigoContext.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Data\\Context\\RigoRigoContext.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Data\\Context\\RigoRigoContext.cs",
+              "RelativeToolTip": "RigoRigo.Data\\Context\\RigoRigoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:20:41.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "RigoRigo.API\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "RigoRigo.API\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:37:36.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\DetallePedido.cs",
+              "RelativeToolTip": "RigoRigo.Entities\\Entities\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:18:41.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Interfaces\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Business\\Interfaces\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Interfaces\\IPedidoService.cs",
+              "RelativeToolTip": "RigoRigo.Business\\Interfaces\\IPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:41:16.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Business\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Business\\Services\\ProductoService.cs",
+              "RelativeToolTip": "RigoRigo.Business\\Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:35:02.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Cliente.cs",
+              "RelativeToolTip": "RigoRigo.Entities\\Entities\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:17:05.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "RigoRigo.Entities\\Entities\\Producto.cs",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.Entities\\Entities\\Producto.cs",
+              "RelativeToolTip": "RigoRigo.Entities\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:17:35.828Z",
               "EditorCaption": ""
             },
             {
@@ -426,16 +379,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RigoRigo.API",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RigoRigo.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RigoRigo.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T16:57:07.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RigoRigo.API.csproj",
               "DocumentMoniker": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\RigoRigo.API.csproj",
               "RelativeDocumentMoniker": "RigoRigo.API\\RigoRigo.API.csproj",
               "ToolTip": "C:\\Users\\abner\\source\\repos\\RigoRigo.API\\RigoRigo.API\\RigoRigo.API.csproj",
               "RelativeToolTip": "RigoRigo.API\\RigoRigo.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T16:13:37.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T16:13:37.262Z"
             }
           ]
         }

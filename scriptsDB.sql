@@ -47,52 +47,73 @@ CREATE TABLE DetallePedido (
 GO
 
 -- Procedimiento almacenado para crear un nuevo pedido
-CREATE PROCEDURE CrearPedido
-    @ClienteID INT,
-    @ProductosDetalle NVARCHAR(MAX) -- JSON con los productos y cantidades
+CREATE OR ALTER PROCEDURE [dbo].[CrearPedidoConCliente]
+    @Cedula NVARCHAR(20),
+    @Nombre NVARCHAR(100),
+    @Direccion NVARCHAR(200),
+    @Detalles NVARCHAR(MAX)
 AS
 BEGIN
     BEGIN TRANSACTION;
 
-    DECLARE @ValorTotal DECIMAL(18, 2) = 0;
+    DECLARE @ClienteID INT;
+
+    -- Verificar si el cliente ya existe
+    SELECT @ClienteID = ClienteID
+    FROM Clientes
+    WHERE Cedula = @Cedula;
+
+    -- Si el cliente no existe, crearlo
+    IF @ClienteID IS NULL
+    BEGIN
+        INSERT INTO Clientes (Cedula, Nombre, Direccion)
+        VALUES (@Cedula, @Nombre, @Direccion);
+
+        SET @ClienteID = SCOPE_IDENTITY(); -- Obtener el ID del cliente recién creado
+    END;
+
+    -- Crear el pedido
     DECLARE @PedidoID INT;
-
-    -- Insertar el pedido
     INSERT INTO Pedidos (ClienteID, ValorTotal)
-    VALUES (@ClienteID, 0);
+    VALUES (@ClienteID, 0); -- El valor total se calculará más adelante
 
-    SET @PedidoID = SCOPE_IDENTITY();
+    SET @PedidoID = SCOPE_IDENTITY(); -- Obtener el ID del pedido recién creado
 
-    -- Procesar los productos del pedido
-    DECLARE @ProductoID INT, @Cantidad INT, @Precio DECIMAL(18, 2);
+    -- Procesar los detalles del pedido
+    DECLARE @ProductoID INT, @Cantidad INT, @PrecioUnitario DECIMAL(18, 2);
+    DECLARE @ValorTotal DECIMAL(18, 2) = 0;
 
     DECLARE productos_cursor CURSOR FOR
-    SELECT ProductoID, Cantidad, Precio
-    FROM OPENJSON(@ProductosDetalle)
+    SELECT 
+        CAST(ProductoID AS INT) AS ProductoID, -- Convertir ProductoID a INT
+        Cantidad,
+        PrecioUnitario
+    FROM OPENJSON(@Detalles)
     WITH (
-        ProductoID INT '$.ProductoID',
-        Cantidad INT '$.Cantidad',
-        Precio DECIMAL(18, 2) '$.Precio'
+        ProductoID NVARCHAR(10) '$.productoID', -- ProductoID es un string en el JSON
+        Cantidad INT '$.cantidad',
+        PrecioUnitario DECIMAL(18, 2) '$.precioUnitario'
     );
 
     OPEN productos_cursor;
-    FETCH NEXT FROM productos_cursor INTO @ProductoID, @Cantidad, @Precio;
+    FETCH NEXT FROM productos_cursor INTO @ProductoID, @Cantidad, @PrecioUnitario;
 
     WHILE @@FETCH_STATUS = 0
     BEGIN
-        -- Insertar detalle del pedido
-        INSERT INTO DetallePedido (PedidoID, ProductoID, Cantidad, PrecioUnitario)
-        VALUES (@PedidoID, @ProductoID, @Cantidad, @Precio);
+        -- Verificar que ProductoID no sea nulo
+        IF @ProductoID IS NOT NULL
+        BEGIN
+            -- Insertar el detalle del pedido
+            INSERT INTO DetallePedido (PedidoID, ProductoID, Cantidad, PrecioUnitario)
+            VALUES (@PedidoID, @ProductoID, @Cantidad, @PrecioUnitario);
 
-        -- Actualizar el valor total del pedido
-        SET @ValorTotal = @ValorTotal + (@Cantidad * @Precio);
+            -- Calcular el valor total del pedido
+            SET @ValorTotal = @ValorTotal + (@Cantidad * @PrecioUnitario);
 
-        -- Actualizar el stock del producto
-        UPDATE Productos
-        SET Stock = Stock - @Cantidad
-        WHERE ProductoID = @ProductoID;
+			UPDATE Productos SET Stock = ((SELECT Stock FROM Productos WHERE ProductoID = @ProductoID) - @Cantidad) WHERE ProductoID = @ProductoID;
+        END;
 
-        FETCH NEXT FROM productos_cursor INTO @ProductoID, @Cantidad, @Precio;
+        FETCH NEXT FROM productos_cursor INTO @ProductoID, @Cantidad, @PrecioUnitario;
     END;
 
     CLOSE productos_cursor;
@@ -133,8 +154,8 @@ INSERT INTO Clientes (Cedula, Nombre, Direccion)
 VALUES ('123456789', 'Juan Pérez', 'Calle 123, Ciudad');
 
 INSERT INTO Productos (Nombre, Precio, Stock)
-VALUES ('Bicicleta Montaña', 500.00, 10),
-       ('Casco Deportivo', 50.00, 20),
-       ('Guantes', 25.00, 30);
+VALUES ('Bicicleta Montaña', 500.00, 120),
+       ('Casco Deportivo', 50.00, 150),
+       ('Guantes', 25.00, 200);
 
 GO

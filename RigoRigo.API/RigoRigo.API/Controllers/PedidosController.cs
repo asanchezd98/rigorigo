@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RigoRigo.Business.Interfaces;
+using RigoRigo.Data.Models;
 using RigoRigo.Entities.Entities;
 
 namespace RigoRigo.API.Controllers
@@ -16,7 +17,7 @@ namespace RigoRigo.API.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CrearPedido([FromBody] PedidoConCliente pedido)
+        public async Task<IActionResult> CrearPedido([FromBody] PedidosModel pedido)
         {
             if (pedido == null)
             {

@@ -1,5 +1,5 @@
 Rigo Rigo - Sistema de Ventas
-Este proyecto es un sistema de ventas para la tienda de ciclismo "Rigo Rigo". Consiste en un backend desarrollado en .NET 8 y un frontend desarrollado en Angular 17.
+Este proyecto es un sistema de ventas para la tienda de ciclismo "Rigo Rigo". Consiste en un backend desarrollado en .NET 8 y un frontend desarrollado en Angular 19.
 
 Tabla de Contenidos
 Requisitos
@@ -31,8 +31,8 @@ SQL Server: Asegúrate de tener SQL Server instalado y configurado.
 
 Configuración del Backend (.NET)
 Clonar el repositorio:
-git clone https://github.com/tu-usuario/rigo-rigo-backend.git
-cd rigo-rigo-backend
+[git clone https://github.com/tu-usuario/rigo-rigo-backend.git](https://github.com/asanchezd98/rigorigo.git)
+cd rigorigo/RigoRigo.API
 
 Configurar la cadena de conexión:
 
@@ -40,24 +40,23 @@ Abre el archivo appsettings.json.
 
 Modifica la cadena de conexión para que apunte a tu instancia de SQL Server:
 "ConnectionStrings": {
-"DefaultConnection": "Server=TU_SERVIDOR;Database=RigoRigo;User Id=TU_USUARIO;Password=TU_CONTRASEÑA;TrustServerCertificate=True;"
+"DefaultConnection": "Server=<usuario>;Database=RigoRigo;Trusted_Connection=True;TrustServerCertificate=True;"
 }
 
-Aplicar migraciones:
+Aplicar Ejecutar script DB:
+cd rigorigo
 
-Ejecuta las migraciones para crear la base de datos:
-dotnet ef migrations add InitialCreate
-dotnet ef database update
+Ejecutar scriptsDB.sql 
 
 Ejecutar el backend:
 dotnet run
 
-El backend estará disponible en https://localhost:5001.
+El backend estará disponible en https://localhost:44383.
 
 Configuración del Frontend (Angular)
 Clonar el repositorio:
-git clone https://github.com/tu-usuario/rigo-rigo-frontend.git
-cd rigo-rigo-frontend
+[git clone https://github.com/tu-usuario/rigo-rigo-backend.git](https://github.com/asanchezd98/rigorigo.git)
+cd rigorigo/RigoRigo.FrontEnd
 
 Instalar dependencias:
 npm install
@@ -69,7 +68,7 @@ Abre el archivo src/environments/environment.ts.
 Modifica la URL del backend:
 export const environment = {
 production: false,
-apiUrl: 'https://localhost:5001/api'
+apiUrl: 'https://localhost:44383/api'
 };
 
 Ejecutar el frontend:
@@ -114,7 +113,7 @@ src/app/models: Contiene los modelos de datos.
 Endpoints de la API
 GET /api/productos: Obtiene la lista de productos.
 
-POST /api/pedidos/con-cliente: Crea un nuevo pedido con los datos del cliente.
+POST /api/pedidos: Crea un nuevo pedido con los datos del cliente.
 
 Stored Procedures
 CrearPedidoConCliente: Crea un pedido y un cliente si no existe, y guarda los detalles del pedido.
