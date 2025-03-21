@@ -1,0 +1,79 @@
+<div class="container">
+  <h2>Agregar Pedido</h2>
+
+  <!-- Formulario para capturar los datos del cliente -->
+  <div class="form-group">
+    <label for="cedula">Cédula del Cliente:</label>
+    <input
+      type="text"
+      id="cedula"
+      [(ngModel)]="pedidoConCliente.cedula"
+      placeholder="Cédula"
+      required
+    />
+  </div>
+
+  <div class="form-group">
+    <label for="nombre">Nombre del Cliente:</label>
+    <input
+      type="text"
+      id="nombre"
+      [(ngModel)]="pedidoConCliente.nombre"
+      placeholder="Nombre"
+      required
+    />
+  </div>
+
+  <div class="form-group">
+    <label for="direccion">Dirección del Cliente:</label>
+    <input
+      type="text"
+      id="direccion"
+      [(ngModel)]="pedidoConCliente.direccion"
+      placeholder="Dirección"
+      required
+    />
+  </div>
+
+  <!-- Formulario para agregar productos al pedido -->
+  <div class="form-group">
+    <h3>Agregar Producto</h3>
+    <label for="producto">Seleccionar Producto:</label>
+    <select
+      id="producto"
+      [(ngModel)]="productoSeleccionado.productoID"
+    >
+      <option value="0">Seleccione un producto</option>
+      <option *ngFor="let producto of productos" [value]="producto.productoID">
+        {{ producto.nombre }} - {{ producto.precio | currency }}
+      </option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="cantidad">Cantidad:</label>
+    <input
+      type="number"
+      id="cantidad"
+      [(ngModel)]="productoSeleccionado.cantidad"
+      placeholder="Cantidad"
+      required
+    />
+  </div>
+
+  <button (click)="agregarProducto()">Agregar Producto</button>
+
+  <!-- Lista de productos agregados -->
+  <div>
+    <h3>Productos Agregados</h3>
+    <ul>
+      <li *ngFor="let detalle of pedidoConCliente.detalles">
+        Producto ID: {{ detalle.productoID }} - Cantidad: {{ detalle.cantidad }} -
+        Precio: {{ detalle.precioUnitario | currency }}
+      </li>
+    </ul>
+  </div>
+
+  <!-- Botón para guardar el pedido -->
+  <button class="save-button" (click)="guardarPedido()">Guardar Pedido</button>
+</div>
