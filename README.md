@@ -56,7 +56,7 @@ El backend estará disponible en https://localhost:44383.
 Configuración del Frontend (Angular)
 Clonar el repositorio:
 [git clone https://github.com/tu-usuario/rigo-rigo-backend.git](https://github.com/asanchezd98/rigorigo.git)
-cd rigorigo/RigoRigo.FrontEnd
+cd rigorigo/FrontEnd/RigoRigo.FrontEnd
 
 Instalar dependencias:
 npm install
